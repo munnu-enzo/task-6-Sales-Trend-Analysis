@@ -16,4 +16,4 @@ Tools
 - SQLite (via sqliteonline.com)
 
 Screenshots
-All outputs are provided in the screenshots folder.
+All outputs are provided in the screenshots
